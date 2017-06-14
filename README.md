@@ -16,7 +16,6 @@ An iOS app that tells you whether your camera is pointed at a lion, using apple'
 	<img width="200" src="https://raw.githubusercontent.com/G2Jose/https://github.com/G2Jose/CoreMLVisionDJKhaled/master/screenshots/lion_detected_3.jpg"/>
 	<img width="200" src="https://raw.githubusercontent.com/G2Jose/https://github.com/G2Jose/CoreMLVisionDJKhaled/master/screenshots/lion_detected_4.jpg"/>
 	<img width="200" src="https://raw.githubusercontent.com/G2Jose/https://github.com/G2Jose/CoreMLVisionDJKhaled/master/screenshots/no_lion_detected_pen.jpg"/>
-	<img width="200" src="https://raw.githubusercontent.com/G2Jose/https://github.com/G2Jose/CoreMLVisionDJKhaled/master/screenshots/no_lion_detected_pen.jpg"/>
 	<img width="200" src="https://raw.githubusercontent.com/G2Jose/https://github.com/G2Jose/CoreMLVisionDJKhaled/master/screenshots/no_lion_detected_candle.jpg"/>
 </p>
 
