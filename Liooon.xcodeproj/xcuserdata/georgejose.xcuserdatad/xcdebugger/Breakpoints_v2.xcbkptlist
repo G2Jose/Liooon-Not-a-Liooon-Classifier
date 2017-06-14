@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Liooon/ViewController.swift"
+            timestampString = "519110053.198445"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "9"
+            endingLineNumber = "9"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Liooon.ViewController.__deallocating_deinit"
+                  moduleName = "Liooon"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/georgejose/dev_files/Liooon/Liooon/ViewController.swift"
+                  timestampString = "519107495.647495"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Liooon.ViewController.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.Bundle&gt;) -&gt; Liooon.ViewController"
+                  moduleName = "Liooon"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/georgejose/dev_files/Liooon/Liooon/ViewController.swift"
+                  timestampString = "519107495.650415"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Liooon.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.Bundle&gt;) -&gt; Liooon.ViewController"
+                  moduleName = "Liooon"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/georgejose/dev_files/Liooon/Liooon/ViewController.swift"
+                  timestampString = "519107495.651832"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "60">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Liooon.ViewController.__allocating_init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Liooon.ViewController&gt;"
+                  moduleName = "Liooon"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/georgejose/dev_files/Liooon/Liooon/ViewController.swift"
+                  timestampString = "519107495.653238"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Liooon.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Liooon.ViewController&gt;"
+                  moduleName = "Liooon"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/georgejose/dev_files/Liooon/Liooon/ViewController.swift"
+                  timestampString = "519107495.654637"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "40">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

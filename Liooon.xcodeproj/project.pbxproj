@@ -12,6 +12,8 @@
 		FE3E6FC31EF0D39D0011B167 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FE3E6FC11EF0D39D0011B167 /* Main.storyboard */; };
 		FE3E6FC51EF0D39D0011B167 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FE3E6FC41EF0D39D0011B167 /* Assets.xcassets */; };
 		FE3E6FC81EF0D39D0011B167 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FE3E6FC61EF0D39D0011B167 /* LaunchScreen.storyboard */; };
+		FE3E6FD01EF0D6C10011B167 /* Inceptionv3.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = FE3E6FCF1EF0D6C00011B167 /* Inceptionv3.mlmodel */; };
+		FE3E6FD21EF0FD670011B167 /* khaled_2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FE3E6FD11EF0FD660011B167 /* khaled_2.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,8 @@
 		FE3E6FC41EF0D39D0011B167 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FE3E6FC71EF0D39D0011B167 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FE3E6FC91EF0D39D0011B167 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FE3E6FCF1EF0D6C00011B167 /* Inceptionv3.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; name = Inceptionv3.mlmodel; path = ../../../Downloads/Inceptionv3.mlmodel; sourceTree = "<group>"; };
+		FE3E6FD11EF0FD660011B167 /* khaled_2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = khaled_2.jpg; path = ../../../tmp/khaled_2.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,9 +60,11 @@
 			children = (
 				FE3E6FBD1EF0D39D0011B167 /* AppDelegate.swift */,
 				FE3E6FBF1EF0D39D0011B167 /* ViewController.swift */,
+				FE3E6FCF1EF0D6C00011B167 /* Inceptionv3.mlmodel */,
 				FE3E6FC11EF0D39D0011B167 /* Main.storyboard */,
 				FE3E6FC41EF0D39D0011B167 /* Assets.xcassets */,
 				FE3E6FC61EF0D39D0011B167 /* LaunchScreen.storyboard */,
+				FE3E6FD11EF0FD660011B167 /* khaled_2.jpg */,
 				FE3E6FC91EF0D39D0011B167 /* Info.plist */,
 			);
 			path = Liooon;
@@ -123,6 +129,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				FE3E6FC81EF0D39D0011B167 /* LaunchScreen.storyboard in Resources */,
+				FE3E6FD21EF0FD670011B167 /* khaled_2.jpg in Resources */,
 				FE3E6FC51EF0D39D0011B167 /* Assets.xcassets in Resources */,
 				FE3E6FC31EF0D39D0011B167 /* Main.storyboard in Resources */,
 			);
@@ -136,6 +143,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				FE3E6FC01EF0D39D0011B167 /* ViewController.swift in Sources */,
+				FE3E6FD01EF0D6C10011B167 /* Inceptionv3.mlmodel in Sources */,
 				FE3E6FBE1EF0D39D0011B167 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
