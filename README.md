@@ -3,7 +3,7 @@
 An iOS app that tells you whether your camera is pointed at a lion, using apple's CoreML and Vision APIs.
 
 <p align="center">
-	<img src="https://raw.githubusercontent.com/G2Jose/https://github.com/G2Jose/CoreMLVisionDJKhaled/master/screenshots/khaled_another_one.gif"/>
+	<img src="https://raw.githubusercontent.com/G2Jose/https://github.com/G2Jose/CoreMLVisionDJKhaled/master/screenshots/khaled_lion.jpg"/>
 </p>
 
 ## Screenshots
