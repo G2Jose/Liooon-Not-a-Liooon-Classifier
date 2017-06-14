@@ -21,4 +21,11 @@ Make sure you have iOS 11 installed (currently in beta). [beta.applebetas.co](ht
 
 The app uses [CoreML](https://developer.apple.com/documentation/coreml) and the inception v3 pre-trained neural network model to make predictions on a stream of images from your device's camera. A liooon is found when the model predicts it with a confidence of >= 30%.
 
-The [Vision API](https://developer.apple.com/documentation/vision) is used in order to process images efficiently (scale & crop to input specs of the model). 
+The [Vision API](https://developer.apple.com/documentation/vision) is used in order to process images efficiently (scale & crop to input specs of the model).
+
+## What is the liooon reference?
+
+- https://www.youtube.com/watch?v=fEjgiLiaeFQ
+- https://www.youtube.com/watch?v=BJXIY0QfvXY
+- https://www.youtube.com/watch?v=HqUQbKIZOzE
+
