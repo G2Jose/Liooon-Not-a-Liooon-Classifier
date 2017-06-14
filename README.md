@@ -27,5 +27,6 @@ The [Vision API](https://developer.apple.com/documentation/vision) is used in or
 
 - https://www.youtube.com/watch?v=fEjgiLiaeFQ
 - https://www.youtube.com/watch?v=BJXIY0QfvXY
+- https://www.youtube.com/watch?v=AMHYBU1R3Nk
+- https://www.youtube.com/watch?v=hgDmyA6yFUU
 - https://www.youtube.com/watch?v=HqUQbKIZOzE
-
