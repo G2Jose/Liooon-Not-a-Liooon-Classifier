@@ -1,4 +1,4 @@
-# CoreMLVisionDJKhaled
+# Liooon / not a liooon classifier
 
 An iOS app that tells you whether your camera is pointed at a lion, using apple's CoreML and Vision APIs.
 
